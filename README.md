@@ -1,6 +1,5 @@
 
 
-# Tags: RAG, AI, ML, Chunking, Groq, LangChain, ChromaDB, Embeddings, Retrieval-Augmented Generation
 
 ## Project Overview
 
@@ -36,3 +35,6 @@ This project implements a Retrieval-Augmented Generation (RAG) pipeline using mo
 3. Run `main.py` to build the vector database and start searching.
 
 ---
+
+# Tags: RAG, AI, ML, Chunking, Groq, LangChain, ChromaDB, Embeddings, Retrieval-Augmented Generation
+
